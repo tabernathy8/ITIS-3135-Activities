@@ -1,0 +1,11 @@
+/*ITIS 3135 Activity 4 css file*/
+
+/*styling for the address element*/
+address {
+    background-color: #fe3e3e;
+}
+
+/*styling for the header and footer*/
+.HeadFoot {
+    background-color: #6ddf6d;
+}

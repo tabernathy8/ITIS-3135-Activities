@@ -1,0 +1,64 @@
+jsonFlickrFeed({
+		"title": "Uploads from zakruvalcaba, tagged vectacorpbuilding",
+		"link": "https:\/\/www.flickr.com\/photos\/82407828@N07\/tags\/vectacorpbuilding\/",
+		"description": "",
+		"modified": "2012-08-22T20:38:15Z",
+		"generator": "https:\/\/www.flickr.com",
+		"items": [
+	   {
+			"title": "Offices",
+			"link": "https:\/\/www.flickr.com\/photos\/82407828@N07\/7840471870\/",
+			"media": {"m":"https:\/\/live.staticflickr.com\/8285\/7840471870_fd6564e8c9_m.jpg"},
+			"date_taken": "2012-06-11T08:52:39-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/82407828@N07\/\">zakruvalcaba<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/82407828@N07\/7840471870\/\" title=\"Offices\"><img src=\"https:\/\/live.staticflickr.com\/8285\/7840471870_fd6564e8c9_m.jpg\" width=\"240\" height=\"180\" alt=\"Offices\" \/><\/a><\/p> ",
+			"published": "2012-08-22T20:38:15Z",
+			"author": "nobody@flickr.com (\"zakruvalcaba\")",
+			"author_id": "82407828@N07",
+			"tags": "vectacorpbuilding"
+	   },
+	   {
+			"title": "Building South Side",
+			"link": "https:\/\/www.flickr.com\/photos\/82407828@N07\/7840472040\/",
+			"media": {"m":"https:\/\/live.staticflickr.com\/8305\/7840472040_b6d7d75c20_m.jpg"},
+			"date_taken": "2012-06-11T08:45:44-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/82407828@N07\/\">zakruvalcaba<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/82407828@N07\/7840472040\/\" title=\"Building South Side\"><img src=\"https:\/\/live.staticflickr.com\/8305\/7840472040_b6d7d75c20_m.jpg\" width=\"240\" height=\"180\" alt=\"Building South Side\" \/><\/a><\/p> ",
+			"published": "2012-08-22T20:38:14Z",
+			"author": "nobody@flickr.com (\"zakruvalcaba\")",
+			"author_id": "82407828@N07",
+			"tags": "vectacorpbuilding"
+	   },
+	   {
+			"title": "Building West Side",
+			"link": "https:\/\/www.flickr.com\/photos\/82407828@N07\/7840472290\/",
+			"media": {"m":"https:\/\/live.staticflickr.com\/8282\/7840472290_d3621766ef_m.jpg"},
+			"date_taken": "2012-06-11T08:43:36-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/82407828@N07\/\">zakruvalcaba<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/82407828@N07\/7840472290\/\" title=\"Building West Side\"><img src=\"https:\/\/live.staticflickr.com\/8282\/7840472290_d3621766ef_m.jpg\" width=\"240\" height=\"180\" alt=\"Building West Side\" \/><\/a><\/p> ",
+			"published": "2012-08-22T20:38:12Z",
+			"author": "nobody@flickr.com (\"zakruvalcaba\")",
+			"author_id": "82407828@N07",
+			"tags": "vectacorpbuilding"
+	   },
+	   {
+			"title": "Conference Room",
+			"link": "https:\/\/www.flickr.com\/photos\/82407828@N07\/7840471730\/",
+			"media": {"m":"https:\/\/live.staticflickr.com\/8445\/7840471730_2d327d436d_m.jpg"},
+			"date_taken": "2012-06-11T08:49:29-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/82407828@N07\/\">zakruvalcaba<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/82407828@N07\/7840471730\/\" title=\"Conference Room\"><img src=\"https:\/\/live.staticflickr.com\/8445\/7840471730_2d327d436d_m.jpg\" width=\"240\" height=\"180\" alt=\"Conference Room\" \/><\/a><\/p> ",
+			"published": "2012-08-22T20:38:16Z",
+			"author": "nobody@flickr.com (\"zakruvalcaba\")",
+			"author_id": "82407828@N07",
+			"tags": "vectacorpbuilding"
+	   },
+	   {
+			"title": "Building North Side",
+			"link": "https:\/\/www.flickr.com\/photos\/82407828@N07\/7840472176\/",
+			"media": {"m":"https:\/\/live.staticflickr.com\/8302\/7840472176_311b9a3b32_m.jpg"},
+			"date_taken": "2012-06-11T08:44:28-08:00",
+			"description": " <p><a href=\"https:\/\/www.flickr.com\/people\/82407828@N07\/\">zakruvalcaba<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/82407828@N07\/7840472176\/\" title=\"Building North Side\"><img src=\"https:\/\/live.staticflickr.com\/8302\/7840472176_311b9a3b32_m.jpg\" width=\"240\" height=\"180\" alt=\"Building North Side\" \/><\/a><\/p> ",
+			"published": "2012-08-22T20:38:13Z",
+			"author": "nobody@flickr.com (\"zakruvalcaba\")",
+			"author_id": "82407828@N07",
+			"tags": "vectacorpbuilding"
+	   }
+        ]
+})
